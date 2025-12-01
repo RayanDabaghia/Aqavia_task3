@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Aqavia_task3/static/css/main.f855e6bc.css",
+    "main.js": "/Aqavia_task3/static/js/main.7a0c5193.js",
+    "static/js/453.72d21b65.chunk.js": "/Aqavia_task3/static/js/453.72d21b65.chunk.js",
+    "index.html": "/Aqavia_task3/index.html",
+    "main.f855e6bc.css.map": "/Aqavia_task3/static/css/main.f855e6bc.css.map",
+    "main.7a0c5193.js.map": "/Aqavia_task3/static/js/main.7a0c5193.js.map",
+    "453.72d21b65.chunk.js.map": "/Aqavia_task3/static/js/453.72d21b65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.7a0c5193.js"
+  ]
+}
