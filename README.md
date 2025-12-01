@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+### this project to this Task 
+
+State management:
+"Create a small React application that contains two pages. The app should use global state management (Context API, Redux, Zustand… any library you prefer) to store data, so that: Data can be sent from the first page to the second page Data remains preserved even after a page refresh Data can be updated from any page and the changes reflect on all pages"
